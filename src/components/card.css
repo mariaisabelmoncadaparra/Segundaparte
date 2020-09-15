@@ -1,0 +1,54 @@
+.imagen-uno {
+
+    display: inline;
+    margin: auto;
+     position: relative;
+    
+    background-color: red;
+    
+    
+
+}
+
+.imagen-dos {
+    
+    display: inline;
+    margin: auto;
+     position: relative;
+    
+}
+
+.imagen-tres {
+  
+    display:inline;
+    margin: auto;
+    position: relative;
+ 
+}
+    
+.card-columns {
+
+    display: inline-block !important;
+    margin: 2%;
+    width: 18rem;  
+    
+       
+}
+
+   
+
+
+.card-title {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h5{
+    font-size: 20px;
+    text-align: center;
+}
+
+/*div{
+    background-color: red;
+
+}
+*/
